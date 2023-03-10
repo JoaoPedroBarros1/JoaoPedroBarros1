@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lactovacilo&label=Visualiza%C3%A7%C3%B5es&color=424242&style=flat" alt="lactovacilo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lactovacilo" alt="lactovacilo" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lactovacilo" alt="lactovacilo" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
