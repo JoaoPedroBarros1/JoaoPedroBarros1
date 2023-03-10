@@ -1,5 +1,7 @@
 <h3 align="center">Tornando o mundo melhor por meio dos códigos</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=900&size=100&duration=4000&pause=2000&center=true&vCenter=true&width=1000&height=150&lines=Jo%C3%A3o+Pedro+Barros)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lactovacilo&label=Visualiza%C3%A7%C3%B5es&color=424242&style=flat" alt="lactovacilo" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lactovacilo" alt="lactovacilo" /></a> </p> -->
