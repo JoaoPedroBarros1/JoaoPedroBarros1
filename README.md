@@ -4,7 +4,7 @@
 
 <h3 align="left">Social media:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/lactovacilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lactovacilo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lactovaciloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lactovacilo" height="30" width="40" /></a>
 <a href="https://discord.gg/Lactovacilo#8331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lactovacilo#8331" height="30" width="40" /></a>
 </p>
 
